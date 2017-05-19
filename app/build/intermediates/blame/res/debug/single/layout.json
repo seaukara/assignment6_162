@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/karamanseau/Downloads/ch08_TipCalculator/app/build/intermediates/res/merged/debug/layout/activity_about.xml",
+        "source": "/Users/karamanseau/Downloads/ch08_TipCalculator/app/src/main/res/layout/activity_about.xml"
+    },
+    {
+        "merged": "/Users/karamanseau/Downloads/ch08_TipCalculator/app/build/intermediates/res/merged/debug/layout/activity_tip_calculator.xml",
+        "source": "/Users/karamanseau/Downloads/ch08_TipCalculator/app/src/main/res/layout/activity_tip_calculator.xml"
+    }
+]
